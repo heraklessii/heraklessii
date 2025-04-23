@@ -1,4 +1,4 @@
-# 👋 Merhaba, ben HERA**!
+# 👋 Merhaba, ben **HERA**!
 
 ## 🎯 Discord Bot Geliştiricisiyim
 Node.js ile Discord botları geliştiriyorum. Farklı ihtiyaçlara yönelik özelleştirilmiş çözümler sunuyor, veri tabanı entegrasyonu ve API bağlantıları ile işlevselliği artırıyorum.
@@ -15,6 +15,8 @@ Node.js ile Discord botları geliştiriyorum. Farklı ihtiyaçlara yönelik öze
 ## 📊 GitHub İstatistiklerim
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=heraklessii&show_icons=true&theme=radical" alt="GitHub İstatistiklerim" />
+</p>
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=heraklessii&layout=compact&theme=radical" alt="En Çok Kullandığım Diller" />
 </p>
 
