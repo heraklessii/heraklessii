@@ -34,7 +34,7 @@ Made by the same hands, sold on itch.io (source not public):
 - 🌸 **[Petalfall](https://heraklessi.itch.io/petalfall)** — card game
 - 🗼 **[Fogwardens](https://heraklessi.itch.io/fogwardens)** — hex city builder + tower defense *(free demo)*
 - 🏘️ **[Muitown](https://heraklessi.itch.io/muitown)** — cozy low-poly city builder *(free demo)*
-- 💬 **[Muita**](https://heraklessi.itch.io/muita)** — typesetting studio for webtoons, manhwa and manga
+- 💬 **[Muita](https://heraklessi.itch.io/muita)** — typesetting studio for webtoons, manhwa and manga
 
 ---
 
