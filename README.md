@@ -5,7 +5,7 @@
 <p align="center">
   <b>Small offline tools & cozy games.</b><br />
   The tools are <b>free and open source</b> — read the code, build it yourself, open an issue.<br />
-  <a href="https://heraklessi.itch.io">itch.io</a> · <a href="https://muitoon.com">muitoon.com</a>
+  <a href="https://heraklessii.github.io/portfolyo/"><b>Portfolio &amp; CV</b></a> · <a href="https://heraklessi.itch.io">itch.io</a> · <a href="https://muitoon.com">muitoon.com</a>
 </p>
 
 ---
