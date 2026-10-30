@@ -29,12 +29,13 @@ Found a bug or have an idea? Issues and pull requests are welcome on every repo.
 
 ## 🎮 Games & studio apps
 
-Made by the same hands, sold on itch.io (source not public):
+Made by the same hands, on itch.io (source not public):
 
-- 🌸 **[Petalfall](https://heraklessi.itch.io/petalfall)** — card game
-- 🗼 **[Fogwardens](https://heraklessi.itch.io/fogwardens)** — hex city builder + tower defense *(free demo)*
-- 🏘️ **[Muitown](https://heraklessi.itch.io/muitown)** — cozy low-poly city builder *(free demo)*
-- 💬 **[Muita](https://heraklessi.itch.io/muita)** — typesetting studio for webtoons, manhwa and manga
+- 🧪 **[Mirela's Cauldron](https://heraklessi.itch.io/mirelas-cauldron)** — a cozy pixel-art potion shop with a mystery *(free in browser)*
+- 🌸 **[Petalfall](https://heraklessi.itch.io/petalfall)** — a turn-based samurai card game on a single line
+- 🏘️ **[Muitown](https://heraklessi.itch.io/muitown)** — a cozy low-poly city builder *(free demo)*
+- 🗼 **[Fogwardens](https://heraklessi.itch.io/fogwardens)** — a hex city builder where every edge is a door at night *(free demo)*
+- 💬 **[Muita](https://heraklessi.itch.io/muita)** — an offline typesetting studio for webtoons & manga
 
 ---
 
